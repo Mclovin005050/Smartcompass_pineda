@@ -1,0 +1,2 @@
+Idea for Compass App
+"As a traveler, I want AI to analyze my destination and automatically point the compass arrow toward , where the user such as my self in real time, so that I can navigate places easily without the help or constantly check google map on my phone and not get lost."
